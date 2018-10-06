@@ -1,4 +1,5 @@
 # lyric_duo3.0  
+
 Overview  
 Set ID3 tag of English sentence and Japanese translation in mp3 data of 'DUO 3.0 CD'.  
 Usage  
@@ -7,13 +8,16 @@ Usage
 3. Execute in the following directory structure.  
 'python lyric_duo.py'  
 
+
 概要  
-'DUO3.0 CD'のmp3データに英文と和訳のID3タグを設定する。  
+DUO3.0 CDのmp3データに英文と和訳のID3タグを設定する。  
+
 使用方法  
 1.DUO3.0 CDをPCに取り込む  
 2.DUOKisoCutter.exeを実行する  
 3.下記のディレクトリ構成で実行する  
 'python lyric_duo.py'  
+
 
 ./DUO 3.0  
 　├DUO 3.0 CD基礎用 [Disc 1]  
@@ -40,6 +44,7 @@ Usage
 　├DuoKisoCutter.exe(from http://www.cutandjoin.com/article/450803443.html)  
 　├duo.csv  
 　├lyric_duo.py  
+
 
 duo.csv:  
  We must...  
