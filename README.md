@@ -5,7 +5,7 @@ Usage
 1. Import the DUO 3.0 CD into the PC.  
 2. Run DUOKisoCutter.exe.  
 3. Execute in the following directory structure.  
-> python lyric_duo.py  
+'python lyric_duo.py'  
 
 概要  
 'DUO3.0 CD'のmp3データに英文と和訳のID3タグを設定する。  
@@ -13,7 +13,7 @@ Usage
 1.DUO3.0 CDをPCに取り込む  
 2.DUOKisoCutter.exeを実行する  
 3.下記のディレクトリ構成で実行する  
-> python lyric_duo.py  
+'python lyric_duo.py'  
 
 ./DUO 3.0  
 　├DUO 3.0 CD基礎用 [Disc 1]  
