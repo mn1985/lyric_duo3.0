@@ -2,6 +2,7 @@
 
 Overview  
 Set ID3 tag of English sentence and Japanese translation in mp3 data of 'DUO 3.0 CD'.  
+
 Usage  
 1. Import the DUO 3.0 CD into the PC.  
 2. Run DUOKisoCutter.exe.  
@@ -22,12 +23,12 @@ DUO3.0 CDのmp3データに英文と和訳のID3タグを設定する。
 ./DUO 3.0  
 　├DUO 3.0 CD基礎用 [Disc 1]  
 　｜├SectionXX  
-　｜｜　├英文01  
-　｜｜　｜　├英文01_001.mp3  
-　｜｜　｜　├...  
-　｜｜　├-英文02  
-　｜｜　　　├英文02_001.mp3  
-　｜｜　　　├...  
+　｜├英文01  
+　｜｜　├英文01_001.mp3  
+　｜｜　├...  
+　｜├-英文02  
+　｜｜　├英文02_001.mp3  
+　｜｜　├...  
 　｜├見出し語  
 　｜｜　├見出し語0001.mp3  
 　｜｜　├...  
@@ -52,3 +53,5 @@ duo.csv:
  ...  
  "Let's call...  
  「ボブ、今日は...」   
+
+mp3データ及び和訳・英訳データは別途ご用意ください。
