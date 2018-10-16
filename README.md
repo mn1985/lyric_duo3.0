@@ -5,9 +5,9 @@ Set ID3 tag of English sentence and Japanese translation in mp3 data of 'DUO 3.0
 
 Usage  
 1. Import the DUO 3.0 CD into the PC.  
-2. Run DUOKisoCutter.exe.  
+2. Run DUOKisoCutter.exe(from http://www.cutandjoin.com/article/450803443.html). 
 3. Execute in the following directory structure.  
-'python lyric_duo.py'  
+   'python lyric_duo.py'  
 
 
 概要  
@@ -15,10 +15,9 @@ DUO3.0 CDのmp3データに英文と和訳のID3タグを設定する。
 
 使用方法  
 1.DUO3.0 CDをPCに取り込む  
-2.DUOKisoCutter.exeを実行する  
-3.下記のディレクトリ構成で実行する  
-'python lyric_duo.py'  
-
+2.DUOKisoCutter.exeを実行する(http://www.cutandjoin.com/article/450803443.html)  
+3.下記のディレクトリ構成で実行する
+  'python lyric_duo.py'  
 
 ./DUO 3.0  
 　├DUO 3.0 CD基礎用 [Disc 1]  
@@ -54,4 +53,7 @@ duo.csv:
  "Let's call...  
  「ボブ、今日は...」   
 
-mp3データ及び和訳・英訳データは別途ご用意ください。
+
+・mp3データ及び和訳・英訳データは別途ご用意ください。
+
+・歌詞データを付与したmp3をAndroidで再生する場合、"Onkyo HF Player"などが便利です。
